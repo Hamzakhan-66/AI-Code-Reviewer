@@ -1,4 +1,6 @@
 .env
+venv/
+__pycache__/
 main.py
 UI.py
 UI2.py
